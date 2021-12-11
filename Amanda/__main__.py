@@ -64,7 +64,7 @@ from Amanda.modules.helper_funcs.readable_time import get_readable_time
 
 PM_START_TEXT = """
 Hello there, I'm 𝓐𝓶𝓪𝓷𝓭𝓪
-I'm a Powerful group manager bot With Cool Modules. Made by [𝕿𝖍𝖆𝖗𝖚𝖐 𝕽𝖊𝖓𝖚𝖏𝖆• 🇱🇰](https://t.me/TharukRenuja)
+I'm a Powerful group manager bot With Cool Modules. Made by [Vinuth•](https://t.me/TGinfom)
 Hit /help to find my list of available commands
  
 """
@@ -72,32 +72,32 @@ Hit /help to find my list of available commands
 buttons = [
     [
         InlineKeyboardButton(
-            text="📢Updates Channel", url="https://t.me/SLBotsofficial"
+            text="📢Updates Channel", url="https://t.me/musicszc"
         ),
         InlineKeyboardButton(
-            text="👥 Support Group", url="https://t.me/trtechguide"
+            text="👥 Support Group", url="https://t.me/SilentAddition"
         ),
     ],
     [
         InlineKeyboardButton(
-            text="📜Source", url="https://github.com/TR-TECH-GUIDE/Amanda"
+            text="📜Source", url="https://github.com/ImVinuth/Amanda"
         ),
         InlineKeyboardButton(
-            text="❔ Help", url="http://t.me/TheAmandabot?start=help"
+            text="❔ Help", url="http://t.me/TheAmanda_Bot?start=help"
         ),
     ],
     [
         InlineKeyboardButton(
             text="➕ Add Amanda to your group ➕",
-            url="t.me/TheAmandabot?startgroup=true",
+            url="t.me/TheAmanda_Bot?startgroup=true",
         ),
     ],
 ]
 
-Amanda_IMG = "https://telegra.ph/file/04d73369440abc48ab3ce.png"
+Amanda_IMG = "https://telegra.ph/file/9d6f532ea09475f2aab62.jpg"
 
 HELP_STRINGS = f"""
-*Main Commands :* [👩](https://telegra.ph/file/04d73369440abc48ab3ce.png)
+*Main Commands :* [👩](https://telegra.ph/file/9d6f532ea09475f2aab62.jpg)
 ✪ /start: Starts me! You've probably already used this.
 ✪ /help: Click this, I'll let you know about myself!
 ✪ /donate: You can support my creater using this command.
@@ -112,7 +112,7 @@ HELP_STRINGS = f"""
 
 DONATE_STRING = """Heya, glad to hear you want to donate!
 You can donate to the original writer's of the Base code,
-Support them  [Tharuk Renuja](https://t.me/TharukRenuja)"""
+Support them  [Vinuth](https://t.me/TGinfom)"""
 
 IMPORTED = {}
 MIGRATEABLE = []
